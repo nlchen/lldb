@@ -32,5 +32,6 @@ docker run -d -v /cnl:/dump --rm -it --name dockername dockerurl /bin/bash
  详细细节->
  https://github.com/dotnet/coreclr/blob/master/Documentation/building/debugging-instructions.md
  
-6.就是好好学习sos命令的时候啦啦啦啦
- 
+6.就是好好学习sos命令的时候啦啦啦啦->
+
+ https://docs.microsoft.com/en-us/dotnet/framework/tools/sos-dll-sos-debugging-extension
